@@ -1,0 +1,89 @@
+[
+  {
+    "Idea_ID":1,
+    "Idea_Title":"Introduce Optional Dark Mode",
+    "Idea_Summary":"Introduce an optional dark mode in the mobile app to reduce eye strain during night-time use",
+    "Submitted_By_Age_Range":19,
+    "Strategic_Alignment":"Mobile UX"
+  },
+  {
+    "Idea_ID":2,
+    "Idea_Title":"Allow Customers Checkout",
+    "Idea_Summary":"Allow customers to checkout without creating an account",
+    "Submitted_By_Age_Range":30,
+    "Strategic_Alignment":"Conversion Optimization"
+  },
+  {
+    "Idea_ID":31,
+    "Idea_Title":"Show Prices",
+    "Idea_Summary":"Show prices in the user's local currency and support popular local payment methods (e",
+    "Submitted_By_Age_Range":26,
+    "Strategic_Alignment":"Internationalization"
+  },
+  {
+    "Idea_ID":32,
+    "Idea_Title":"Implement Product Comparison",
+    "Idea_Summary":"Implement a product comparison feature where users can select multiple products and see their specifications side by side",
+    "Submitted_By_Age_Range":30,
+    "Strategic_Alignment":"Conversion Optimization"
+  },
+  {
+    
+    "Idea_ID": 30,
+    "Idea_Title": "Improve App Performance",
+    "Idea_Summary": "Optimize the mobile application for faster loading times and smoother scrolling. Improving app performance, especially for users on older devices or slower networks, would decrease bounce rates and enhance user satisfaction.",
+    "Submitted_By_Age_Range": 45,
+    "Strategic_Alignment": "Mobile UX"
+    
+    
+  },
+  {
+    "Idea_ID":35,
+    "Idea_Title":"Enable Pre Order",
+    "Idea_Summary":"Enable a pre-order option for popular items that are currently out of stock, allowing customers to reserve the product to be delivered once it\u2019s available again",
+    "Submitted_By_Age_Range":21,
+    "Strategic_Alignment":"Conversion Optimization"
+  },
+  {
+    "Idea_ID":36,
+    "Idea_Title":"Allow Users Follow",
+    "Idea_Summary":"Allow users to follow their favorite brands or sellers on the platform and receive notifications or a feed of new product releases or deals from those brands",
+    "Submitted_By_Age_Range":20,
+    "Strategic_Alignment":"Personalization"
+  },
+  {
+    "Idea_ID":37,
+    "Idea_Title":"Allow Mobile App",
+    "Idea_Summary":"Allow the mobile app to cache key pages or the user's wishlist\/cart for offline access",
+    "Submitted_By_Age_Range":31,
+    "Strategic_Alignment":"Mobile UX"
+  },
+  {
+    "Idea_ID":38,
+    "Idea_Title":"Integrate Buy Now",
+    "Idea_Summary":"Integrate a Buy Now, Pay Later (BNPL) payment option at checkout",
+    "Submitted_By_Age_Range":22,
+    "Strategic_Alignment":"Conversion Optimization"
+  },
+  {
+    "Idea_ID":39,
+    "Idea_Title":"Introduce Gamified Badge",
+    "Idea_Summary":"Introduce a gamified badge system where users earn badges or titles for achieving certain milestones",
+    "Submitted_By_Age_Range":25,
+    "Strategic_Alignment":"Community Engagement"
+  },
+  {
+    "Idea_ID":40,
+    "Idea_Title":"Add Feature Product",
+    "Idea_Summary":"Add a feature on product pages where customers can provide feedback on how an item fits",
+    "Submitted_By_Age_Range":30,
+    "Strategic_Alignment":"Community Engagement"
+  },
+  {
+    "Idea_ID":44,
+    "Idea_Title":"Offer Personalized Shopping Assistant",
+    "Idea_Summary":"Offer a personalized shopping assistant via chat that helps users find products based on their preferences",
+    "Submitted_By_Age_Range":24,
+    "Strategic_Alignment":"Personalization"
+  }
+]

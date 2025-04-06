@@ -1,0 +1,8 @@
+langchain
+qdrant-client
+python-dotenv
+requests
+sentence-transformers
+langchain_community
+langchain_ollama
+faiss-cpu
