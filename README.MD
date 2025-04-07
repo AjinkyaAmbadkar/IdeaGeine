@@ -101,6 +101,7 @@
 ---
 
 ## **Architecture** 🏗️
+![Our Architechture](https://github.com/varunsonawane/IdeaGeine/blob/main/Architecture.jpg)
 
 ### **Backend** 💻
 
